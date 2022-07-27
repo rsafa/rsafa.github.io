@@ -1,0 +1,24 @@
+.site-btn{
+    font-size: 14px;
+    font-weight: 500;
+    border: 0;
+    padding: 1px 29px;
+    line-height: 35px;
+    color: white;
+    background-color: #767676;
+    border-radius: 0;
+    transition: 0s;
+}
+
+.site-btn:hover{
+    color: white;
+    background-color: #54B689;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+.tinypad{
+    padding-right: 2px;
+}
