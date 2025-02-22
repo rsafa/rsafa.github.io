@@ -22,3 +22,15 @@ li{
 .tinypad{
     padding-right: 2px;
 }
+
+.no-underline {
+    text-decoration: none !important; /* Removes underline */
+    color: inherit; /* Keeps default text color */
+    display: inline-flex;
+    align-items: center;
+    gap: 6px; /* Space between icon and text */
+}
+
+.no-underline:hover {
+    color: #007bff; /* Optional: Change color on hover */
+}
